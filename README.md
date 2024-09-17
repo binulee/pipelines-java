@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/binulee01/Lab330_java/_apis/build/status%2Fbinulee.pipelines-java?branchName=main)](https://dev.azure.com/binulee01/Lab330_java/_build/latest?definitionId=64&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
